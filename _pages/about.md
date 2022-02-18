@@ -94,7 +94,7 @@ Updates
                 <!-- Ubisoft GameJame -->
                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[May 2019]</div>
-                  <div class="col"> Our team secured 2nd position in the Ubisoft GameJam 48 hours hackathon. Check out our game <a href="https://anshkhurana.github.io/bonus">here</a> </div>
+                  <div class="col"> Our team secured 2nd position in the Ubisoft GameJam 48 hours hackathon. Check out our game <a href="{{ base_path }}/bonus">here</a> </div>
                 </div>
                 <!-- NUS Internship -->
                 <div class="row">
