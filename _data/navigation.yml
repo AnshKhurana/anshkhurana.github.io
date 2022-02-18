@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+    
+  - title: "Resume"
+    url: /resume/
+
+# - title: "RG Warrior"
+#   url: /bonus/    
+    
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+            
+  # - title: "Blog"
+  #   url: /blog/
+
+    
