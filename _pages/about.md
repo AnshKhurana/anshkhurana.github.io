@@ -34,12 +34,12 @@ Updates
                 <!-- SITA Pre-Print -->
                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[Dec 2021]</div>
-                  <div class="col"> Our new preprint on "SITA: Single Image Test-time Adaptation" is availble on <a href="https://arxiv.org/abs/2112.02355">arxiv</a> </div>
+                  <div class="col"> Our new preprint on "SITA: Single Image Test-time Adaptation" is available on <a href="https://arxiv.org/abs/2112.02355">arxiv</a> </div>
                 </div>
                 <!-- NSDA Pre-Print -->
                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[Dec 2021]</div>
-                  <div class="col"> Our new preprint on "Unsupervised Adaptation of Semantic Segmentation Models without Source Data" is availble on <a href="https://arxiv.org/abs/2112.02359">arxiv</a> </div>
+                  <div class="col"> Our new preprint on "Unsupervised Adaptation of Semantic Segmentation Models without Source Data" is available on <a href="https://arxiv.org/abs/2112.02359">arxiv</a> </div>
                 </div>
                 <!-- Research Excellence Award -->
                 <div class="row">
