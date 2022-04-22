@@ -24,6 +24,19 @@ Updates
     <div class="container ">
             <!-- <div class="col-xs-0 col-md-4 section-heading "></div> -->
             <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
+                <!-- ICLR 2022 Blog Post -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Apr 2022]</div>
+                  <div class="col">
+                   Our <a href="https://iclr-blog-track.github.io/2022/03/25/emergent-symbols/"> Blog Post</a> on Symbolic Binding in Neural Networks through Factorized Memory Systems has been accepted to the <a href="https://iclr-blog-track.github.io/"> ICLR 2022 Blog Post Track</a></div>  
+                </div>
+                <!-- ISBI 2022 best paper -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Mar 2022]</div>
+                  <div class="col">
+                  Our paper on "Semi-Supervised Deep Expectation-Maximization for Low-Dose PET-CT" received the best paper award at <a href="https://biomedicalimaging.org/2022/">IEEE ISBI 2022</a>
+                  </div>
+                </div>
                 <!-- ISBI 2022 paper -->
                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[Jan 2022]</div>
