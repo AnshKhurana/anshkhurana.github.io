@@ -34,7 +34,7 @@ Updates
                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[Mar 2022]</div>
                   <div class="col">
-                  Our paper on "Semi-Supervised Deep Expectation-Maximization for Low-Dose PET-CT" received the best paper award at <a href="https://biomedicalimaging.org/2022/">IEEE ISBI 2022</a>
+                  Our paper on "Semi-Supervised Deep Expectation-Maximization for Low-Dose PET-CT" received the <a href="https://biomedicalimaging.org/2022/best-paper-awards/"> best paper award </a> at <a href="https://biomedicalimaging.org/2022/">IEEE ISBI 2022</a>
                   </div>
                 </div>
                 <!-- ISBI 2022 paper -->
