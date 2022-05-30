@@ -18,6 +18,29 @@ Conference Papers
   <div class="resume-content">
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
   <tbody>
+      <!-- ISBI-22 -->
+      <tr>
+        <!-- image -->
+        <td width="25%">
+          <img width="90%" src="/images/isbi2022.png" alt="obj">
+        </td>
+        <!-- content -->
+        <td valign="middle" width="75%">
+            <h4><papertitle>Semi-Supervised Deep Expectation-Maximization for Low-Dose PET-CT</papertitle></h4>
+          <!-- authors -->
+          Vatsala Sharma,
+          <strong>Ansh Khurana</strong>,
+          Sriram Yenamandra,
+          Suyash P. Awate
+          <br>
+          <em>19<sup>th</sup> IEEE International Symposium on Biomedical Imaging (ISBI 2022)</em>
+          <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9761601">[Paper]</a>
+    <!-- <a href="">slides</a> -->
+          <p></p>
+          <!-- <p>Description</p> -->
+        </td>
+      </tr>
       <!-- CIKM-20 -->
       <tr>
         <!-- image -->
