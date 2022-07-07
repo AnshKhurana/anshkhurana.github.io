@@ -118,7 +118,8 @@ Updates
                 <!-- NUS Internship -->
                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[May 2019]</div>
-                  <div class="col"> Started internship at National University of Singapore with Prof. Angela Yao </div>
+                  <div class="col"> Started internship at National University of Singapore with Prof. Angela Yao 
+                  </div>
                 </div>
             </div>
       </div>
