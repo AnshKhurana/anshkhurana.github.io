@@ -148,6 +148,7 @@ Conference Papers
 </section>
 
 Workshops
+------
 <section class="d-flex align-items-center" id="publications">
   <div class="resume-item d-flex flex-column flex-md-row">
   <div class="resume-content">
