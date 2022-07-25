@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<script src="https://kit.fontawesome.com/2996c77a0a.js" crossorigin="anonymous"></script>
 
 {% include base_path %}
 
@@ -33,7 +34,9 @@ Conference Papers
           Sriram Yenamandra,
           Suyash P. Awate
           <br>
-          <em>19<sup>th</sup> IEEE International Symposium on Biomedical Imaging (ISBI 2022)</em>
+          <em>IEEE International Symposium on Biomedical Imaging (ISBI) 2022</em>
+          <br>
+          <b> Best Paper Award <i class="fas fa-trophy"></i> </b>
           <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/9761601">[Paper]</a>
     <!-- <a href="">slides</a> -->
@@ -55,7 +58,7 @@ Conference Papers
           Alvis Logins,
           Panagiotis Karras 
           <br>
-          <em>29<sup>th</sup> ACM International Conference on Information and Knowledge Management (CIKM 2020)</em>
+          <em>ACM International Conference on Information and Knowledge Management (CIKM) 2020</em>
           <br>
     <a href="https://doi.org/10.1145/3340531.3411886">[Paper]</a>
     <!-- <a href="">slides</a> -->
@@ -80,7 +83,7 @@ Conference Papers
           <strong>Ansh Khurana</strong>,
           Angela Yao
           <br>
-          <em>31<sup>st</sup> British Machine Vision Conference  (BMVC 2020)</em>
+          <em>British Machine Vision Conference  (BMVC) 2020</em>
           <br>
     <a href="https://www.bmvc2020-conference.com/assets/papers/0702.pdf">[Paper]</a>
     <!-- <a href="slides.pdf">slides</a> -->
@@ -105,7 +108,7 @@ Conference Papers
           Rohit Jena,
           Suyash P. Awate
           <br>
-          <em>25<sup>th</sup> International Conference on Pattern Recognition  (ICPR 2020)</em>
+          <em>International Conference on Pattern Recognition (ICPR) 2020</em>
           <br>
     <a href="https://ieeexplore.ieee.org/document/9413049">[Paper]</a>
     <!-- <a href="slides.pdf">slides</a> -->
@@ -130,10 +133,67 @@ Conference Papers
           Abhinav Rai,
           Angela Yao
           <br>
-          <em>42<sup>nd</sup> German Conference on Pattern Recognition  (GCPR 2020)</em>
+          <em>German Conference on Pattern Recognition  (GCPR) 2020</em>
           <br>
     <a href="https://arxiv.org/abs/2010.09672">[Paper]</a>
     <!-- <a href="data">slides</a> -->
+          <p></p>
+          <!-- <p>Description</p> -->
+        </td>
+      </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+</section>
+
+Workshops
+<section class="d-flex align-items-center" id="publications">
+  <div class="resume-item d-flex flex-column flex-md-row">
+  <div class="resume-content">
+        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+      <!-- ICML PODS -->
+      <tr>
+        <!-- image -->
+        <td width="25%">
+          <img width="90%" src="/images/icml_pods2022.png" alt="obj">
+        </td>
+        <!-- content -->
+        <td valign="middle" width="75%">
+            <h4><papertitle>What can we do with just the model? A simple knowledge extraction framework</papertitle></h4>
+          <!-- authors -->
+          Sujoy Paul,
+          <strong>Ansh Khurana</strong>,
+          Gaurav Aggarwal
+          <br>
+          <em>International Conference on Machine Learning (ICML) 2022, Workshop on Principles of Distribution Shift</em>
+          <br>
+    <a href="https://anshkhurana.github.io/files/ICML_PODS.pdf">[Paper]</a>
+    <!-- <a href="">slides</a> -->
+          <p></p>
+          <!-- <p>Description</p> -->
+        </td>
+      </tr>
+      <!-- ICLR Blog Post -->
+      <tr>
+        <!-- image -->
+        <td width="25%">
+          <img width="90%" src="/images/iclr_blog2022.png" alt="obj">
+        </td>
+        <!-- content -->
+        <td valign="middle" width="75%">
+            <h4><papertitle>Symbolic Binding in Neural Networks through Factorized Memory Systems</papertitle></h4>
+          <!-- authors -->
+          Ameya Daiagavane<sup>*</sup>,
+          <strong>Ansh Khurana<sup>*</sup></strong>, 
+          Shweta Bhardwaj,
+          Gaurav Aggarwal
+          <br>
+          <em>International Conference on Learning Representations (ICLR) 2022, Blog Post Track</em>
+          <br>
+    <a href="https://iclr-blog-track.github.io/2022/03/25/emergent-symbols/">[Paper]</a>
+    <!-- <a href="">slides</a> -->
           <p></p>
           <!-- <p>Description</p> -->
         </td>

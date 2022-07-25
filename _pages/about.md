@@ -28,7 +28,7 @@ Updates
                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[Jun 2022]</div>
                   <div class="col">
-                   Our paper on "What can we do with just the source model? A simple knowledge extraction framework" has been accepted to the <a href="https://sites.google.com/corp/view/icml-2022-pods"> ICML 2022 workshop on Principles of Distribution Shift </a> </div>
+                   Our <a href="https://anshkhurana.github.io/files/ICML_PODS.pdf">paper</a> on "What can we do with just the source model? A simple knowledge extraction framework" has been accepted to the <a href="https://sites.google.com/corp/view/icml-2022-pods"> ICML 2022 workshop on Principles of Distribution Shift </a> </div>
                 </div>
                 <!-- ICLR 2022 Blog Post -->
                 <div class="row">
