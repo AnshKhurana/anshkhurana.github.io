@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ansh Khurana"
 title_separator          : "-"
 name                     : &name "Ansh Khurana"
-description              : &description "Pre-Doctoral Researcher at Google Research India."
+description              : &description "MSCS at Stanford University."
 url                      : "https://anshkhurana.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anshkhurana/anshkhurana.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ansh Khurana"
   avatar           : "profile.jpg"
-  bio              : "Pre-Doctoral Researcher @GoogleAI"
-  location         : "Bangalore, India"
+  bio              : "MSCS @Stanford"
+  location         : "California, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2mWM1ZkAAAAJ"
-  email            : "anshkhurana@google.com"
+  email            : "anshkhurana@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
