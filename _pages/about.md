@@ -25,6 +25,12 @@ Updates
     <div class="container ">
             <!-- <div class="col-xs-0 col-md-4 section-heading "></div> -->
             <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
+            <!-- ICML PODS Workshop -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Jun 2022]</div>
+                  <div class="col">
+                   Our <a href="https://anshkhurana.github.io/files/ICML_PODS.pdf">paper</a> on "What can we do with just the source model? A simple knowledge extraction framework" has been accepted to the <a href="https://sites.google.com/corp/view/icml-2022-pods"> ICML 2022 workshop on Principles of Distribution Shift </a> </div>
+                </div>
                 <!-- ICLR 2022 Blog Post -->
                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[Apr 2022]</div>
@@ -113,7 +119,8 @@ Updates
                 <!-- NUS Internship -->
                 <div class="row">
                 <div class="col-xs-4 col-md-3 update-dates">[May 2019]</div>
-                  <div class="col"> Started internship at National University of Singapore with Prof. Angela Yao </div>
+                  <div class="col"> Started internship at National University of Singapore with Prof. Angela Yao 
+                  </div>
                 </div>
             </div>
       </div>
