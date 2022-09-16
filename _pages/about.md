@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming MSCS student at Stanford University.
+I am a graduate student in Computer Science at Stanford University.
 
 
 <!-- In particular, I am interested in building robust and generalisable Computer Vision models for healthcare applications. -->
