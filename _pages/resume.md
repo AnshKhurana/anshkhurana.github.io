@@ -7,8 +7,8 @@ redirect_from:
   - /cv
 ---
 {% include base_path %}
-If the embedded document does not load, check out the pdf [here](https://anshkhurana.github.io/files/resume.pdf).
+For a more detailed version, check out my [two-page resume](https://anshkhurana.github.io/files/resume_2pg.pdf).
 <section id="resumepdf">
-          <p>Last updated April 2022</p>
+          <p>Last updated August 2022</p>
           <iframe src= "/files/resume.pdf" width= "100%" height= "1000"> </iframe>
 </section>
