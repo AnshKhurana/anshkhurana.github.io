@@ -30,7 +30,7 @@ Updates
                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[Sep 2022]</div>
                   <div class="col">
-                   Started as a Course Assistant for the Computer Vision foundations course (<a href="http://vision.stanford.edu/teaching/cs131_fall2223/">CS 131 </a>) at Stanford</div>
+                   Started as a Course Assistant for the Computer Vision foundations course (<a href="http://vision.stanford.edu/teaching/cs131_fall2223/">CS 131</a>) at Stanford</div>
                 </div>
             <!-- ICML PODS Workshop -->
                 <div class="row">
