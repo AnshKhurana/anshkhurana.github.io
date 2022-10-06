@@ -131,6 +131,7 @@ Updates
                 </div>
             </div>
       </div>
+      </div>
 </section>
 
 
