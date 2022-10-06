@@ -23,6 +23,13 @@ Updates
 ------
 <section id="updates" class="home-section ">
     <div class="container ">
+    <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
+            <!-- CS 131 CA -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Sep 2022]</div>
+                  <div class="col">
+                   Started as a Course Assistant for the Computer Vision foundations course (<a href="http://vision.stanford.edu/teaching/cs131_fall2223/">CS 131) at Stanford</div>
+                </div>
             <!-- <div class="col-xs-0 col-md-4 section-heading "></div> -->
             <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
             <!-- ICML PODS Workshop -->
