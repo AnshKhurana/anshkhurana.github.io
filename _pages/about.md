@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in Computer Science at Stanford University.
+I am a graduate student in Computer Science at Stanford University. I am passionate making machine learning research come to life with practical, reliable and safe deployed solutions.
 
 
-<!-- In particular, I am interested in building robust and generalisable Computer Vision models for healthcare applications. -->
 Previously, I was a Pre-Doctoral Researcher at [Google Research India](https://research.google/teams/india-research-lab/), where I worked primarily on unsupervised domain adaptation. In August 2021, I graduated from the Indian Institute of Technology Bombay ([IIT Bombay](https://www.iitb.ac.in/)) with a B.Tech. in [Computer Science and Engineering](https://www.cse.iitb.ac.in/) and a Minor in [Statistics](http://www.math.iitb.ac.in/Academics/minor.php). I received the Research Excellence Award for my B.Tech. thesis on *Deep Learning for Medical Image Enhancement* under the guidance of Prof. [Suyash P. Awate](https://www.cse.iitb.ac.in/~suyash/). In the summer of 2020, I interned at [Google Research India](https://research.google/teams/india-research-lab/) and worked on form structure recognition. In winter 2019, I interned at [Aarhus University](https://international.au.dk/), Denmark and worked with Prof. [Panagiotis Karras](https://cs.au.dk/~karras/) on devising a model for content-aware influence maximization in social networks. In the summer of 2019, I interned at the [National University of Singapore](https://www.nus.edu.sg/), where I worked on utilizing user input effectively for interactive image segmentation with Prof. [Angela Yao](https://www.comp.nus.edu.sg/cs/people/ayao/).
 
 <!-- Resume: [link](https://anshkhurana.github.io/resume.pdf)  
@@ -26,6 +25,30 @@ Updates
     <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
     <!-- <div class="col-xs-0 col-md-4 section-heading "></div> -->
             <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
+            <!-- CS 330 CA -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Sep 2022]</div>
+                  <div class="col">
+                   Started as a Head Teaching Assistant for the Deep Multi-Task and Meta Learning course (<a href="https://cs330.stanford.edu/">CS 330</a>) at Stanford</div>
+                </div>
+            <!-- Apple ML internship -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Jun 2022]</div>
+                  <div class="col">
+                   Started as a Machine Learning Engineering Intern at Apple, Cupertino</div>
+                </div>
+            <!-- CS 224R CA -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Apr 2022]</div>
+                  <div class="col">
+                   Started as a Course Assistant for the Deep Reinforcement Learning course (<a href="https://cs224r.stanford.edu/">CS 224R</a>) at Stanford</div>
+                </div>
+            <!-- CS 224N CA -->
+                <div class="row">
+                  <div class="col-xs-4 col-md-3 update-dates">[Jan 2022]</div>
+                  <div class="col">
+                   Started as a Course Assistant for the Natural Language Processing with Deep Learning course (<a href="http://web.stanford.edu/class/cs224n/">CS 224N</a>) at Stanford</div>
+                </div>
             <!-- CS 131 CA -->
                 <div class="row">
                   <div class="col-xs-4 col-md-3 update-dates">[Sep 2022]</div>
