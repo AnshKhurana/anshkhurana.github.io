@@ -27,25 +27,25 @@ Updates
             <div class="col-xs-12 col-md-12" style="height: 280px; margin: 0em; overflow-y: auto;">
             <!-- CS 330 CA -->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[Sep 2022]</div>
+                  <div class="col-xs-4 col-md-3 update-dates">[Sep 2023]</div>
                   <div class="col">
                    Started as a Head Teaching Assistant for the Deep Multi-Task and Meta Learning course (<a href="https://cs330.stanford.edu/">CS 330</a>) at Stanford</div>
                 </div>
             <!-- Apple ML internship -->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[Jun 2022]</div>
+                  <div class="col-xs-4 col-md-3 update-dates">[Jun 2023]</div>
                   <div class="col">
                    Started as a Machine Learning Engineering Intern at Apple, Cupertino</div>
                 </div>
             <!-- CS 224R CA -->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[Apr 2022]</div>
+                  <div class="col-xs-4 col-md-3 update-dates">[Apr 2023]</div>
                   <div class="col">
                    Started as a Course Assistant for the Deep Reinforcement Learning course (<a href="https://cs224r.stanford.edu/">CS 224R</a>) at Stanford</div>
                 </div>
             <!-- CS 224N CA -->
                 <div class="row">
-                  <div class="col-xs-4 col-md-3 update-dates">[Jan 2022]</div>
+                  <div class="col-xs-4 col-md-3 update-dates">[Jan 2023]</div>
                   <div class="col">
                    Started as a Course Assistant for the Natural Language Processing with Deep Learning course (<a href="http://web.stanford.edu/class/cs224n/">CS 224N</a>) at Stanford</div>
                 </div>
