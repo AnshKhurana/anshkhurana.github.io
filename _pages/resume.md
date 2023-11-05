@@ -8,5 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 <section id="resumepdf">
-          <iframe src= "/files/resume.pdf" width= "100%" height= "1000"> </iframe>
+          <iframe src= "/files/ansh_khurana_resume.pdf" width= "100%" height= "1000"> </iframe>
 </section>
